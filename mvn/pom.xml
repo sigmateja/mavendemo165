@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>mavendemo</artifactId>
+    <artifactId>mvn</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -20,6 +20,7 @@
             <artifactId>selenium-java</artifactId>
             <version>4.33.0</version>
         </dependency>
+
     </dependencies>
 
 </project>
